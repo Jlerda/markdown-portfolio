@@ -1,7 +1,7 @@
 ### Free time activities 
-#### Mountain :mountain:
+#### Mountain
 
-* Rock climbing :climbing:
+* Rock climbing
   * Trad
   * Sport
   * Multipitch
@@ -9,7 +9,7 @@
 * Alpine climbing
   * Mixed
   * Rock
-* Ski alpinism :ski:
+* Ski alpinism
 * Trekking
 * Trail running
 * Enduro mountain biking
