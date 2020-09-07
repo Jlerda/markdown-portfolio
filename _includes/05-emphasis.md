@@ -1,3 +1,3 @@
-* *Super **STRONG** climber* :+1:
+* *Super **STRONG** climber*  
 * *Crazy **GOOD** skier*
-* ***Amazingly** humble person* :+1::+1::+1:
+* ***Amazingly** humble person*
