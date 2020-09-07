@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* *Super **STRONG** climber* :+1:
+* *Crazy **GOOD** skier*
+* ***Amazingly** humble person* :+1::+1::+1:
