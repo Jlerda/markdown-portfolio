@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Lets ski!!!](https://www.neveitalia.it/foto/albums/userpics/16692/1080__UG15256~0.jpg)
